@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "crates/bin",
+    "crates/bm-search",
+]
