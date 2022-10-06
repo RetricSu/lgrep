@@ -1,6 +1,6 @@
 [workspace]
 
 members = [
-    "crates/bin",
+    "crates/lgrep",
     "crates/bm-search",
 ]
